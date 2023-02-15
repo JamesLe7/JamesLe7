@@ -2,10 +2,10 @@
 ![](https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif)
 
 ## Languages ⌨️
-[![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
+[![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)](https://developer.apple.com/swift/)
 
 ## Let's Chat 💬
-[![Gmail](https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:james.ledesma23@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:james.ledesma23@gmail.com)
 
 <!-- ## Things I've Accomplished
 <a href="https://github.com/anuraghazra/github-readme-stats">
