@@ -1,7 +1,7 @@
 ### Heyyyy 👋, I'm James
 ![](https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif)
 
-## Languages I Can Read / Write
+## Languages ⌨️
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 
 ## Let's Chat 💬
