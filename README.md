@@ -3,7 +3,7 @@
 
 ## Languages ⌨️
 [![Swift](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=Swift&labelColor=orange)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A66C2?logo=swift&logoColor=white&style=flat)](https://developer.apple.com/swiftui/)
+[![SwiftUI](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=SwiftUI&labelColor=0A66C2)](https://developer.apple.com/swiftui/)
 
 ## Let's Chat 💬
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:james.ledesma23@gmail.com)
