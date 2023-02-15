@@ -10,7 +10,7 @@
 
 <!-- ## Things I've Accomplished
 
-[![Objective-C](https://img.shields.io/badge/-Deprecated-2EC866?label=Obj-C&labelColor=FA7343&style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
+[![Objective-C](https://img.shields.io/badge/-Deprecated-2EC866?label=Objective-C&labelColor=gray&style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesle7&count_private=true&show_icons=true&theme=radical&custom_title=Scorecard&hide=stars,prs&include_all_commits=true" />
