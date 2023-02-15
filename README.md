@@ -9,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:james.ledesma23@gmail.com)
 
 <!-- ## Things I've Accomplished
+
+![Swift](https://img.shields.io/badge/-Fluent-AAFF00?logo=swift&logoColor=white&label=Swift&labelColor=orange)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesle7&count_private=true&show_icons=true&theme=radical&custom_title=Scorecard&hide=stars,prs&include_all_commits=true" />
 </a>
