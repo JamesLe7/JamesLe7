@@ -2,8 +2,8 @@
 ![](https://media.giphy.com/media/QZafWHTjJmwTK/giphy.gif)
 
 ## Languages ⌨️
-[![Swift](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=Swift&labelColor=FA7343&style=flat)](https://developer.apple.com/swift/)
 [![SwiftUI](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=SwiftUI&labelColor=0A66C2&style=flat)](https://developer.apple.com/swiftui/)
+[![Swift](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=Swift&labelColor=FA7343&style=flat)](https://developer.apple.com/swift/)
 
 ## Let's Chat 💬
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=red&labelColor=white&style=flat)](mailto:james.ledesma23@gmail.com)
