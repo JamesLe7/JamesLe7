@@ -6,7 +6,7 @@
 [![Swift](https://img.shields.io/badge/-Fluent-2EC866?logo=swift&logoColor=white&label=Swift&labelColor=FA7343&style=flat)](https://developer.apple.com/swift/)
 [![Objective-C](https://img.shields.io/badge/-Deprecated-EAB300?label=Objective-C&labelColor=gray&style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 
-## My Contributions :hammer_and_wrench:
+## My Contributions 🛠️
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamesle7&theme=radical&disable_animations=true)](https://git.io/streak-stats)
 
 ## Let's Chat 💬
