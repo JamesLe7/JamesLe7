@@ -7,7 +7,7 @@
 [![Objective-C](https://img.shields.io/badge/-Deprecated-EAB300?label=Objective-C&labelColor=gray&style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210)
 
 ## My Contributions 🛠️
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamesle7&theme=radical&disable_animations=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamesle7&theme=radical&disable_animations=false)](https://git.io/streak-stats)
 
 ## Let's Chat 💬
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=red&labelColor=white&style=flat)](mailto:james.ledesma23@gmail.com)
